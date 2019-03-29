@@ -3,6 +3,7 @@
 
 using namespace std;
 //This should be the non-preemtive one
+//I think i should go with the struct idea 
 //TODO write a class or struct with the Pno,At,BT,
 int main()
 {
