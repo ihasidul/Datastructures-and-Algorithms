@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     int n;
+    //cout << "hello";
     cout << "Enter the number of elements: " << endl;
     cin >> n;
     int ArrayOf[n];
