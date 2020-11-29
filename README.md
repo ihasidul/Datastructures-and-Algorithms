@@ -2,7 +2,7 @@
 Some Data structure and algorithms.<br>
 TODO:
 > Data Structures
-1. Stack 
+1. ~~Stack~~
 2. Queue
 3. Tree
 4. Graph
