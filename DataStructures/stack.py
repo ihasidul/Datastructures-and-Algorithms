@@ -1,4 +1,6 @@
+"""To understand stack think of a stack of plate in a drum.We can get the last plate first from that drum. Stack follows LIFO(Last in first out) """
 l = []
+
 while True:
     b = input("->")
     if not b:
