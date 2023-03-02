@@ -1,7 +1,4 @@
-# Datastructures-and-Algorithms
-
-Some Data structure and algorithms.<br>
-TODO:
+# Datastructures and Algorithms
 
 ### Data Structures & Algorithms
 
