@@ -1,4 +1,4 @@
-def linear_search(arr,search_item):
+def linear_search(arr, search_item):
     """
     Linear search algorithm. Return True if search_item is in arr, else False.
     """
@@ -7,6 +7,8 @@ def linear_search(arr,search_item):
             return True
     return False
 
-arr = [1,2,3,10,412,234,12,9]
+
+arr = [1, 2, 3, 10, 412, 234, 12, 9]
 search_item = 10
-print(linear_search(arr,search_item))
+print(linear_search(arr, search_item))
+
